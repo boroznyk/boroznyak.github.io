@@ -1,0 +1,49 @@
+.big-fon-img{
+    background-image: url(pexels-fauxels.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 10rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.big-fon-img-2{
+    background-image: url(kv.png);
+    background-size: cover;
+    /* background-position: ; */
+    padding: 10rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 900 !important;
+}
+.nav-link:hover{
+    color: rgb(240, 164, 0) !important;
+    
+}
+.harakterystyky{
+    margin: 2rem 0;
+    border-bottom: 4px dashed rgb(103, 182, 247);
+}
+.harakterystyky{
+    margin: 2rem;
+    border-bottom: 4px dashed rgb(103, 182, 247);
+}
+.harakterystyky{
+    margin: 2rem;
+    border-bottom: 4px dashed rgb(103, 182, 247);
+}
+.harakterystyky{
+    margin: 2rem;
+    border-bottom: 4px dashed rgb(103, 182, 247);
+}
+.harakterystyky{
+    margin: 2rem;
+    border-bottom: 4px dashed rgb(103, 182, 247);
+}
+.harakterystyky{
+    margin: 2rem;
+    border-bottom: 4px dashed rgb(103, 182, 247);
+}
